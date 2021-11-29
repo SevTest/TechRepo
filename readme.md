@@ -12,7 +12,7 @@ main.tf
 variables.tf
 variables.tfvars
 
-# clone Git Repo
+# Clone Git Repo
 git checkout master - clone the repo
 git clone https://github.com/servian/TechChallengeApp.git
 git checkout -b features/golanappiacdeployment
